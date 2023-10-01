@@ -32,10 +32,8 @@ Click the "Create function" button to create your Lambda function.
 In the Lambda function configuration, scroll down to the "Function code" section.
 You can write or paste your Node.js code here. For example, you can create a simple Lambda function that logs a message.
 
-exports.handler = async (event) => {
-    console.log("Hello from Lambda!");
-    return "Hello from Lambda!";
-};
+<img width="488" alt="image" src="https://github.com/MustangGuy86/Creating-Your-First-AWS-Lambda-Function/assets/103835436/e21a89e2-cd00-48be-8695-13f651e3fc85">
+
 
 
 6. Test Your Lambda Function
